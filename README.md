@@ -2,7 +2,6 @@
 
 This repository provides an implementation of MiniROCKET-2D, a fast and deterministic feature extraction method for image classification.
 
-## Installation
 
 
 ## Repository Structure
