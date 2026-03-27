@@ -6,3 +6,15 @@ This repository provides an implementation of MiniROCKET-2D, a fast and determin
 
 ```bash
 pip install -r requirements.txt
+
+## Repository Structure
+minirocket2d/
+│
+├── src/
+│   └── minirocket2d.py        # Core implementation
+│
+├── examples/
+│   └── run_classifier.py      # Example usage with classifier
+│
+├── results/                   # Output results
+└── README.md
