@@ -4,8 +4,6 @@ This repository provides an implementation of MiniROCKET-2D, a fast and determin
 
 ## Installation
 
-```bash
-pip install -r requirements.txt
 
 ## Repository Structure
 minirocket2d/
@@ -18,3 +16,5 @@ minirocket2d/
 │
 ├── results/                   # Output results
 └── README.md
+```bash
+pip install -r requirements.txt
