@@ -6,6 +6,7 @@ This repository provides an implementation of MiniROCKET-2D, a fast and determin
 
 
 ## Repository Structure
+```bash
 minirocket2d/
 │
 ├── src/
@@ -16,5 +17,3 @@ minirocket2d/
 │
 ├── results/                   # Output results
 └── README.md
-```bash
-pip install -r requirements.txt
